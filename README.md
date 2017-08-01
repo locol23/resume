@@ -44,7 +44,7 @@
 - AWS、GCP での環境構築
 - GoogleAppsScriptによる業務改善
 - Shell, AWK を用いた文字列処理
-- Q Accelerator (https://github.com/howdy39/q-accelerator) のcontributor
+- OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor
 
 ## 職務経歴
 
