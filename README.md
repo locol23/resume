@@ -135,7 +135,7 @@
 ##### 【使用技術】
 
 - OS: Linux(CentOS)
-- 言語: HTML5, CSS3, JavaScript
+- 言語: HTML, CSS, JavaScript
 - フレームワーク: Liferay, AngularJS, SpringMVC, MyBatis
 - DB: SQL Server
 - その他ミドルウェア等: Tomcat
