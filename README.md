@@ -38,7 +38,7 @@
 - AngularによるデータバインディングなWebアプリケーションの開発（経験年数：3ヶ月）
 - React+ReduxによるデータバインディングなWebアプリケーションの開発（経験年数：半年）
 - Vue2によるデータバインディングなWebアプリケーションの開発（経験年数：1ヶ月）
-- Browserify, Webpack, Gulp 等のビルドタスクツール活用（経験年数：半年）
+- Browserify, Webpack, Gulp 等のビルドタスクツール活用（経験年数：1年）
 - Oracle Database、MySQL等の RDBMS の活用（経験年数：3年）
 - MongoDB等のNoSQLの活用（経験年数：3ヶ月）
 - GitHubでのPull Request駆動開発（経験年数：3ヶ月）
