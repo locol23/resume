@@ -34,7 +34,10 @@
 
 - HTML5, CSS3, JavaScript (ECMAScript) によるWebフロントエンドの開発（経験年数：2年半）
 - Node.js による RESTful なWebアプリケーションの開発（経験年数：半年）
-- Angular, React, Vue.js による双方向データバインディングなWebアプリケーションの開発（経験年数：2年）
+- AngularJSによるデータバインディングなWebアプリケーションの開発（経験年数：1年）
+- AngularによるデータバインディングなWebアプリケーションの開発（経験年数：3ヶ月）
+- React+ReduxによるデータバインディングなWebアプリケーションの開発（経験年数：半年）
+- Vue2によるデータバインディングなWebアプリケーションの開発（経験年数：1ヶ月）
 - Browserify, Webpack, Gulp 等のビルドタスクツール活用（経験年数：半年）
 - Oracle Database、MySQL等の RDBMS の活用（経験年数：3年）
 - MongoDB等のNoSQLの活用（経験年数：3ヶ月）
