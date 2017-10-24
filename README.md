@@ -47,7 +47,7 @@
 - AWS、GCP での環境構築（経験年数：2ヶ月）
 - GoogleAppsScriptによる業務改善（経験年数：2年）
 - Shell, AWK を用いた文字列処理（経験年数：2年）
-- OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor
+- OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor（2017/03〜）
 
 ## 職務経歴
 
