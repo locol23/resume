@@ -32,23 +32,22 @@
 
 ## 活かせる経験・知識・技術
 
-- HTML5, CSS3, JavaScript (ECMAScript) によるWebフロントエンドの開発（経験年数：2年半）
-- Node.js による RESTful なWebアプリケーションの開発（経験年数：10ヶ月）
-- AngularJSによるデータバインディングなWebアプリケーションの開発（経験年数：1年）
-- AngularによるデータバインディングなWebアプリケーションの開発（経験年数：3ヶ月）
-- React + ReduxによるデータバインディングなWebアプリケーションの開発（経験年数：半年）
-- Vue2によるデータバインディングなWebアプリケーションの開発（経験年数：1ヶ月）
-- Browserify, Webpack, Gulp 等のビルドタスクツール活用（経験年数：1年）
-- Oracle Database、MySQL等の RDBMS の活用（経験年数：3年）
-- MongoDB等のNoSQLの活用（経験年数：半年）
-- GitHubでのPull Request駆動開発（経験年数：3ヶ月）
-- fluentd, Elasticsearch, Kibanaを連携させた情報の見える化（経験年数：半年）
-- Travis CI での継続的インテグレーション開発（経験年数：3ヶ月）
-- AWS、GCP での環境構築（経験年数：2ヶ月）
-- GoogleAppsScriptによる業務改善（経験年数：2年）
-- Shell, AWK を用いた文字列処理（経験年数：2年）
-- OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor（2017/03〜）
-- Swaggerを用いたAPI仕様の見える化（経験年数：2ヶ月）
+- HTML5, CSS3, JavaScript (ECMAScript) によるWebフロントエンドの開発
+- Node.js による RESTful なWebアプリケーションの開発
+- AngularJSによるデータバインディングなWebアプリケーションの開発
+- AngularによるデータバインディングなWebアプリケーションの開発
+- React + ReduxによるデータバインディングなWebアプリケーションの開発
+- Browserify, Webpack, Gulp 等のビルドタスクツール活用
+- Oracle Database, SQL Server, MySQL等の RDBMS の活用
+- MongoDB等のNoSQLの活用
+- GitHubでのPull Request駆動開発
+- fluentd, Elasticsearch, Kibanaを連携させた情報の見える化
+- Travis CI での継続的インテグレーション開発
+- AWS、GCP での環境構築
+- GoogleAppsScriptによる業務改善
+- Shell, AWK を用いた文字列処理
+- Swaggerを用いたAPI仕様の見える化
+- OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor
 
 ## 職務経歴
 
@@ -58,9 +57,9 @@
 
 ##### 【プロジェクト概要】
 
-- 携帯電話開通システムの開発・保守（人数：6人）
-- データ移行（人数：2人）
-- 開発・保守業務の改善（人数：1人）
+- 携帯電話開通システムの開発・保守
+- データ移行
+- 開発・保守業務の改善
 
 ##### 【実績・取り組み】
 
@@ -92,9 +91,9 @@
 
 ##### 【プロジェクト概要】
 
-- 携帯電話開通システムの運用（人数：13人）
-- 運用業務の改善（人数：3人）
-- オフショア運用チーム立ち上げ（人数：2人）
+- 携帯電話開通システムの運用
+- 運用業務の改善
+- オフショア運用チーム立ち上げ
 
 ##### 【実績・取り組み】
 
@@ -124,7 +123,7 @@
 
 ##### 【プロジェクト概要】
 
-- 複数システムにまたがる光回線開通状況を1画面でまとめて確認出来る業務Webアプリの開発（人数：5人）
+- 複数システムにまたがる光回線開通状況を1画面でまとめて確認出来る業務Webアプリの開発
 
 ##### 【実績・取り組み】
 
@@ -152,7 +151,7 @@
 
 ##### 【プロジェクト概要】
 
-- 光回線開通システムWeb画面の改修案件（人数：2人）
+- 光回線開通システムWeb画面の改修案件
 
 ##### 【実績・取り組み】
 
