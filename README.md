@@ -46,7 +46,6 @@
 - GoogleAppsScriptによる業務改善
 - Shell, AWK を用いた文字列処理
 - Swaggerを用いたAPI仕様の見える化
-- Node.jsを用いたLINE BOT開発
 - OSS「Q Accelerator」(https://github.com/howdy39/q-accelerator) のcontributor
 
 ## 職務経歴
