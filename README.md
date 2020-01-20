@@ -16,7 +16,8 @@
 
 | key      | value                         |
 | -------- | ----------------------------- |
-| FullName | 寺澤 佳高 (Yoshitaka Terazawa) |
+| FullName | 寺澤 佳高 (Yoshitaka Terazawa)|
+| Twitter  | https://twitter.com/locol23   |
 | Qiita    | https://qiita.com/locol23     |
 | Mail     | yoshitaka.terazawa@gmail.com  |
 
