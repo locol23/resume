@@ -14,12 +14,13 @@
 
 ## 基本情報
 
-| key      | value                         |
-| -------- | ----------------------------- |
-| FullName | 寺澤 佳高 (Yoshitaka Terazawa)|
-| Twitter  | https://twitter.com/locol23   |
-| Qiita    | https://qiita.com/locol23     |
-| Mail     | yoshitaka.terazawa@gmail.com  |
+| key      | value                            |
+| -------- | ---------------------------------|
+| FullName | 寺澤 佳高 (Yoshitaka Terazawa)   |
+| Twitter  | https://twitter.com/locol23      |
+| Qiita    | https://qiita.com/locol23        |
+| Connpass | https://connpass.com/user/locol/ |
+| Mail     | yoshitaka.terazawa@gmail.com     |
 
 ## 学歴・職歴
 
